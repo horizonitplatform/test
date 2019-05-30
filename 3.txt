@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 pairoj
 
 Piyawan
 
 noi
+=======
+pairoj
+>>>>>>> parent of 934cc6e... Update 3.txt
